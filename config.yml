@@ -1,0 +1,12 @@
+Core:
+  Accounts_To_Create: 500
+  Has_Cookies_Prompt: true
+
+Browser:
+  Headless: false
+  Language: en-US
+
+Accounts:
+  Username_Base: "Revamper"
+  Random_Password: true
+  Fixed_Password: "Revamper123"
